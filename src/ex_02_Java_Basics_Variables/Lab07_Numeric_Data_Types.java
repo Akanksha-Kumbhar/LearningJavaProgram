@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Java_Basics_Variables;
 
 public class Lab07_Numeric_Data_Types {
     public static void main(String[] args) {

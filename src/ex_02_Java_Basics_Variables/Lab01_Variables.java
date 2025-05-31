@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Java_Basics_Variables;
 
 public class Lab01_Variables {
     public static void main(String[] args) {
